@@ -24,7 +24,7 @@ setuptools.setup(
                     'anndata>=0.7.6',
                     'numpy>=1.19.5',
                     'pandas>=1.2.4',
-                    'sklearn>=0.0',
+                    # 'sklearn>=0.0',
                     'scikit-learn>=0.24.2',
                     'imblearn>=0.0',
                     'imbalanced-learn>=0.8.0',
